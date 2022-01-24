@@ -1,0 +1,31 @@
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Staff Management System.exe.config
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Staff Management System.exe
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Staff Management System.pdb
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.Resources.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff Management System.vbproj.GenerateResource.Cache
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff Management System.exe.licenses
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff Management System.exe
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff Management System.pdb
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Guna.UI.dll
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Guna.UI.pdb
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmadd.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmMenu.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\EMP.mdb
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff Management System.vbprojResolveAssemblyReference.cache
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmedit.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmlogin.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmAlert.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\gridprinting.dll
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmprint1.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmsearch.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.Report1.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.Report2.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.Report3.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmsalary.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\SQLABC_ModernUI.dll
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmuser.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.frmbackup.resources
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\org\Visual Studio\My Project\TQ Sales system\DXApplication1\Staff Management System\Staff Management System\obj\Debug\Staff_Management_System.About.resources
